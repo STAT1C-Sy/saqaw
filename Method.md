@@ -1,4 +1,4 @@
-# The Systems Aware Quality Attribute Workshop (SAQAW)
+# :blue_book: The Systems Aware Quality Attribute Workshop (SAQAW)
 
 ### Phase 1: Introduction and Soft Systems Phase
 The first phase is the Soft Systems phase. In this part of the workshop stakeholders focus on forming a shared understanding of the systems goals and application domain. In this phase representatives of all relevant stakeholder groups should be involved since it is important to form a holistic understanding of the applications context and the current situation.
