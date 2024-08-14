@@ -8,11 +8,11 @@ The SAQAW is an attempt to combine the Quality Attribute Workshop (QAW), develop
 
 ### :clap: What is this repository for?
 
-Primary use cases:
+Primary use cases:<br/>
 :file_folder: Store files related to the SAQAW to be reused by others who want to adopt the method <br/>
 :loudspeaker: Provide a forum to discuss anything related to the method
 <br/><br/>
-In the more general sense:
+In the more general sense:<br/>
 :earth_asia: Open up the method to a world-wide community of researchers and practicioners to develop further <br/>
 :bulb: Inspire Software Engineers to adopt a view beyond technology <br/>
 :seedling: Serve as the foundation for any future research endeavours for the exaptation of (Soft) Systems Thinking into Software Architecture
