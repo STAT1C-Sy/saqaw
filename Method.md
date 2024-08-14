@@ -48,3 +48,7 @@ Analogue to the QAW the top scenarios should be refined. Barbacci, et al. (2003)
 
 ### References
 Barbacci, M. R., Ellison, R., Lattanze, A. J., Stafford, J. A., Weinstock, C. B., & Wood, W. G. (2003). Quality Attribute Workshops (QAWs), Third Edition. Carnegie Mellon Software Engineering Institute.
+
+Bronte-Stewart, M. (1999). Regarding Rich Pictures as Tools for Communication in Information Systems Development. Computing and Information Systems, 83 - 102.
+
+Checkland, P. (1981). Systems Thinking, Systems Practice. John Wiley & Sons Ltd .
