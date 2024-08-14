@@ -11,7 +11,8 @@ Previous works have clearly showcased how SSM can help in Software Development P
 - Salahat, M., & Wade, S. (2009). A Systems Thinking Approach to Domain-Driven Design. UK Academy for Information Systems Conference Proceedings 2009, (p. 44).
 - Cloutier, R., Sauser, B., Bone, M., & Taylor, A. (2015). Transitioning Systems Thinking to Model-Based Systems Engineering: Systemigrams to SysML Models. IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS: SYSTEMS, VOL. 45, NO. 4, 662 - 674.
 
-While these works are great, Software Architecture is also driven by non functional requirements (NFRs). The existing approaches focus mostly on functional requirements, which inspired me to propose the SAQAW. This method not only extends Soft Systems Thinking to Software Architecture requirements elicitation but also neatly integrates with other methods in the process such as ADD or ATAM.
+While these works are great, Software Architecture is also driven by non functional requirements (NFRs). The existing approaches focus mostly on functional requirements, which inspired me to propose the SAQAW. This method not only extends Soft Systems Thinking to Software Architecture requirements elicitation but also neatly integrates with other methods in the process such as the [Attribute-Driven Design Method (ADD)](https://insights.sei.cmu.edu/library/attribute-driven-design-method-collection/) or the [Architecture Tradeoff Analysis Method (ATAM)](https://insights.sei.cmu.edu/library/atam-method-for-architecture-evaluation/) .
+
 
 ### :checkered_flag: What is this repository for?
 
