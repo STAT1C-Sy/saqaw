@@ -45,3 +45,6 @@ Scenario Prioritization is done in the in the same fashion as it is done in the 
 
 #####  Step 8: Scenario Refinement
 Analogue to the QAW the top scenarios should be refined. Barbacci, et al. (2003) recommend to do this for the top four or five scenarios. For refinement the structure of well formed quality attribute should be filled in. In the QAW, Barbacci, et al. (2003) also require participants to describe how the refined sceanrio relates to the architectural drivers. In the SAQAW this should be replaced with an explicit description of how the scenario relates to the part of the rich picture it was mapped to.
+
+### References
+Barbacci, M. R., Ellison, R., Lattanze, A. J., Stafford, J. A., Weinstock, C. B., & Wood, W. G. (2003). Quality Attribute Workshops (QAWs), Third Edition. Carnegie Mellon Software Engineering Institute.
