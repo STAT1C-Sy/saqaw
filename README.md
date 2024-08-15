@@ -36,7 +36,7 @@ Just open a pull request adding the suggested content and I will review it.
 ### :page_facing_up: Contents
 :blue_book: [Method description](Method.md)<br/>
 :triangular_ruler: [List Helpful Tools for the workshop](resources/Tools.md)<br/>
-:pencil: [Workshop Presentation Template]() <br/>
+:pencil: [Workshop Presentation Template](templates/Intro_Presentation_Template_Unformatted.pdf) <br/>
 :hourglass: [Workshop Sample Schedule](templates/Schedule.md)
 
 ### :clap: Acknowledgements
